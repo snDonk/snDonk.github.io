@@ -7,3 +7,4 @@ description: Short summary of the post.
 comments: false
 math: true
 ---
+[Download my PDF]({{ '/assets/pdf/Mathematical_Logic.pdf' | relative_url }})
