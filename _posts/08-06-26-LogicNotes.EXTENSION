@@ -3,7 +3,17 @@ title: Notes on Mathematical Logic
 date: 08-06-26 07:08:23 +0800
 categories: [Math, Notes]
 tags: [logic]     # TAG names should always be lowercase
-description: Short summary of the post.
+description: This document is a set of notes based on the Mathematical Logic
+lecture series by Professor Artem Chernikov, which can be found on YouTube
+(https://tinyurl.com/MathLogicLectureSeries). The video series covers topics from the Math-
+ematical Logic course (Math 220A) taught by Artem Chernikov at UCLA in the Fall quarter
+of 2021. The lectures themselves follow Chapters 2 and 3 of ”A First Journey Through Logic”
+by Martin Hils and Fran¸cois Loeser and later discusses further material in model theory from
+David Marker’s ”Model Theory : An Introduction”.
+At this particular moment I am unsure how much I will expand on these notes beyond the
+content of Professor Artem’s course. As a disclaimer, these notes are written by a novice and
+have no affiliation with the actual course or Professor Artem. It would be highly appreciated if
+any errors were brought to my attention.
 comments: false
 math: true
 ---
