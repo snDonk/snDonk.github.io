@@ -17,4 +17,4 @@ any errors were brought to my attention.
 comments: false
 math: true
 ---
-[Download my PDF]({{ '/assets/pdf/Mathematical_Logic.pdf' | relative_url }})
+<a href="{{ '/assets/pdf/Mathematical_Logic.pdf' | relative_url }}" target="_blank">View notes</a>
